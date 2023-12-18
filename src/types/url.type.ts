@@ -1,0 +1,1 @@
+export const LOCAL_HOST: string = "localhost:3000/";
